@@ -1,4 +1,4 @@
 # git_test
-My first GitHub repo
-Hello Odin!
-
+Este es el segundo cambio que hago
+Es una prueba
+Agregue este renglon despues como prueba
