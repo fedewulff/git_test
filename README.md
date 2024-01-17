@@ -1,3 +1,2 @@
 # git_test
-Este es mi primer depository
-    volvi a agregar pipi popog
+EStoy haciendo una prueba
