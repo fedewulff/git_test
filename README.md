@@ -1,8 +1,2 @@
 # git_test
-EStoy haciendo una prueba
-pipipepe
-popin
-popo
-tete
-pololo
-lala
+Hola! Este texto es una prueba. pimpom
